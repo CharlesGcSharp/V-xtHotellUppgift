@@ -11,7 +11,7 @@ public class Meateater extends Vaxt implements Iinstructions
     }
 
 
-
+//
 
     @Override
     public void getInstructions()

@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Palm extends Vaxt implements Iinstructions
 {
 
-
+//
     public Palm(String name, float height) {
         super(name, height);
     }

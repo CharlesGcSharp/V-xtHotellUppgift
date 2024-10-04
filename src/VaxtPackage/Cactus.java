@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Cactus extends Vaxt implements Iinstructions
 {
 
-
+//
     public Cactus(String name, float height) {
         super(name, height); // Här är ett exempel på arv. Fälten "name" och "height" hamnar automatiskt i ...
                             // ... subklasserna eftersom jag har skrivit "extends Vaxt" i deras deklaration
